@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# agregados por kamilo 
+
+
+.kaggle.json
+kaggle.json
